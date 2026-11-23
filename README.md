@@ -1,8 +1,6 @@
 <div align="center">
 
-# Ahmed Walied Allam
-
-### Web Developer | ASP.NET Core MVC | WordPress
+![Ahmed Walied Allam | Web Developer, ASP.NET Core MVC, WordPress](assets/header.gif)
 
 Information Systems Student · Faculty of Computers and Artificial Intelligence, Sadat City University
 
@@ -23,12 +21,12 @@ I work on responsive front-end interfaces and WordPress websites, and I'm develo
 
 ## Skills & Technologies
 
-![HTML5](assets/html5.png)
-![CSS3](assets/css3.png)
-![JavaScript](assets/javascript.png)
-![WordPress](assets/wordpress.png)
-![C#](assets/csharp.png)
-![ASP.NET Core](assets/dotnet.png)
+![HTML5](assets/color-html5.png)
+![CSS3](assets/color-css3.png)
+![JavaScript](assets/color-javascript.png)
+![WordPress](assets/color-wordpress.png)
+![C#](assets/color-csharp.png)
+![ASP.NET Core](assets/color-dotnet.png)
 
 Badges name technologies I use or have studied through project work, not proficiency ratings.
 
