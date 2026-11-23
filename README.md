@@ -21,12 +21,7 @@ I work on responsive front-end interfaces and WordPress websites, and I'm develo
 
 ## Skills & Technologies
 
-<img src="assets/color-html5.png" height="28" alt="HTML5" />
-<img src="assets/color-css3.png" height="28" alt="CSS3" />
-<img src="assets/color-javascript.png" height="28" alt="JavaScript" />
-<img src="assets/color-wordpress.png" height="28" alt="WordPress" />
-<img src="assets/color-csharp.png" height="28" alt="C#" />
-<img src="assets/color-dotnet.png" height="28" alt="ASP.NET Core" />
+<img src="assets/color-html5.png" height="28" alt="HTML5" /> <img src="assets/color-css3.png" height="28" alt="CSS3" /> <img src="assets/color-javascript.png" height="28" alt="JavaScript" /> <img src="assets/color-wordpress.png" height="28" alt="WordPress" /> <img src="assets/color-csharp.png" height="28" alt="C#" /> <img src="assets/color-dotnet.png" height="28" alt="ASP.NET Core" />
 
 Badges name technologies I use or have studied through project work, not proficiency ratings.
 
